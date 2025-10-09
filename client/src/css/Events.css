@@ -1,0 +1,17 @@
+/* Events.css */
+.all-events {
+    padding: 20px;
+  }
+  
+  .all-events h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .all-events main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
